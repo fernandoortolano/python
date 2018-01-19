@@ -1,2 +1,2 @@
 # python
-fisrt repo
+fisrt repo for git commands demonstration
